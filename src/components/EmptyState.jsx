@@ -1,4 +1,3 @@
-// src/components/EmptyState.jsx
 import { Inbox } from 'lucide-react';
 
 const EmptyState = ({ message = "No data found", description = "" }) => (

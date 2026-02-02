@@ -1,4 +1,3 @@
-// src/components/ErrorMessage.jsx
 import { AlertCircle } from 'lucide-react';
 
 const ErrorMessage = ({ message, onRetry }) => (
